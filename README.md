@@ -9,6 +9,10 @@ Hi there! I'm a Data Scientist and Machine Learning Researcher based in Californ
 - Cloud & Deployment: Streamlit, Docker, GCP
 
 ### 🚀 Featured Projects
+
+- **[Agentic-AI-Drug-Discovery-MDM2-P53](https://github.com/Maryam-Taherzadeh/Agentic-AI-Drug-Discovery-MDM2-P53)**  
+  End-to-end agentic AI drug discovery workflow for MDM2–p53 inhibitor prioritization. The project includes ChEMBL bioactivity data processing, RDKit descriptor generation, live pIC50 prediction using an XGBoost regression model, Lipinski drug-likeness evaluation, rule-based candidate recommendation, and a Streamlit app for interactive SMILES-based screening.
+
 - **[Computational-Drug-Discovery](https://github.com/Maryam-Taherzadeh/Computational-Drug-Discovery)**  
   MDM2–p53 inhibitor bioactivity prediction workflow using ChEMBL IC50 data, RDKit descriptors, Random Forest, XGBoost, SVR, and hyperparameter tuning.
 
