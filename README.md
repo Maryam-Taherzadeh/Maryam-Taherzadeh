@@ -12,10 +12,11 @@ Hi there! I'm a Computational Scientist and Machine Learning Researcher based in
 
 - **[Agentic-AI-Drug-Discovery-MDM2-P53](https://github.com/Maryam-Taherzadeh/Agentic-AI-Drug-Discovery-MDM2-P53)**  
   End-to-end agentic AI drug discovery workflow for MDM2–p53 inhibitor prioritization. The project includes ChEMBL bioactivity data processing, RDKit descriptor generation, live pIC50 prediction using an XGBoost regression model, Lipinski drug-likeness evaluation, rule-based candidate recommendation, and a Streamlit app for interactive SMILES-based screening.
-
+ Live Demo: https://huggingface.co/spaces/Maryam-Taherzadeh/agentic-ai-mdm2-p53
+   
 - **[Computational-Drug-Discovery](https://github.com/Maryam-Taherzadeh/Computational-Drug-Discovery)**  
   MDM2–p53 inhibitor bioactivity prediction workflow using ChEMBL IC50 data, RDKit descriptors, Random Forest, XGBoost, SVR, and hyperparameter tuning.
-
+   
 - **[predict_solubility_GNN](https://github.com/Maryam-Taherzadeh/predict_solubility_GNN)**  
   Streamlit app for predicting molecular solubility using Graph Neural Networks.
 
