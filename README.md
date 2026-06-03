@@ -8,9 +8,6 @@ Hi there! I'm a Computational Scientist and Machine Learning Researcher based in
 - Bioactivity & Solubility Prediction: IC50, pIC50, ESOL, AqSolDB
 - Cloud & Deployment: Streamlit, Docker, GCP
 
-# 👩‍🔬 Maryam Taherzadeh
-
-Hi there! I'm a Computational Scientist and Machine Learning Researcher based in California, with dual Master's degrees in Computer Science and Physical Chemistry. I specialize in AI-driven drug discovery, cheminformatics, computational chemistry, and molecular property prediction.
 
 ## 🔬 Areas of Expertise
 
