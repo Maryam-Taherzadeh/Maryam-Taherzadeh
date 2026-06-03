@@ -2,12 +2,6 @@
 
 Hi there! I'm a Computational Scientist and Machine Learning Researcher based in California, with dual Master's degrees in Computer Science and Physical Chemistry. I specialize in AI-driven drug discovery, cheminformatics, and molecular property prediction.
 
-### 🔬 Areas of Expertise
-- AI for Drug Discovery: GNNs, ChemBERTa, QSAR/QSPR
-- Molecular Modeling & Cheminformatics: Python, RDKit, DeepChem, ChEMBL
-- Bioactivity & Solubility Prediction: IC50, pIC50, ESOL, AqSolDB
-- Cloud & Deployment: Streamlit, Docker, GCP
-
 
 ## 🔬 Areas of Expertise
 
