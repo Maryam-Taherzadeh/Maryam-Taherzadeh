@@ -1,6 +1,6 @@
 # 👩‍🔬 Maryam Taherzadeh
 
-Hi there! I'm a Data Scientist and Machine Learning Researcher based in California with dual Master’s degrees in **Computer Science** and **Physical Chemistry**, specializing in **AI-driven drug discovery**, **cheminformatics**, and **molecular property prediction**.
+Hi there! I'm a Computational Scientist and Machine Learning Researcher based in California, with dual Master's degrees in Computer Science and Physical Chemistry. I specialize in AI-driven drug discovery, cheminformatics, and molecular property prediction.
 
 ### 🔬 Areas of Expertise
 - AI for Drug Discovery: GNNs, ChemBERTa, QSAR/QSPR
@@ -27,3 +27,5 @@ Hi there! I'm a Data Scientist and Machine Learning Researcher based in Californ
 
 ### 📫 Connect with me  
 [LinkedIn](https://www.linkedin.com/in/maryam-taherzadeh/) • GitHub: `@Maryam-Taherzadeh`
+
+
