@@ -27,7 +27,7 @@ https://huggingface.co/spaces/Maryam-Taherzadeh/agentic-ai-mdm2-p53
 
 ---
 
-###  Caffeine PK Modeling with Public PK-DB Data
+### ☕ Caffeine PK Modeling with Public PK-DB Data
 
 Machine learning workflow for caffeine pharmacokinetic concentration-time prediction using public PK-DB data.
 
@@ -55,13 +55,13 @@ https://predictsolubilitygnn.streamlit.app/
 
 ---
 
-###  QSPR using Machine Learning
+### ⚗️ QSPR using Machine Learning
 
 Feature selection and SVM/ANN-based QSPR modeling for molecular property prediction.
 
 ---
 
-###  Time Series Forecasting
+### 📈 Time Series Forecasting
 
 Daily sales forecasting using Facebook Prophet and time series analysis.
 
