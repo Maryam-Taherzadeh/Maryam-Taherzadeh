@@ -14,7 +14,7 @@ I specialize in AI-driven drug discovery, cheminformatics, molecular property pr
 - **Deep Learning for Molecules:** Graph Neural Networks, ChemBERTa, PyTorch Geometric
 - **Cloud & Deployment:** Streamlit, Hugging Face Spaces, Docker, GCP
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ###  Agentic AI Drug Discovery: MDM2–p53
 
@@ -55,13 +55,13 @@ https://predictsolubilitygnn.streamlit.app/
 
 ---
 
-### ⚗️ QSPR using Machine Learning
+###  QSPR using Machine Learning
 
 Feature selection and SVM/ANN-based QSPR modeling for molecular property prediction.
 
 ---
 
-### 📈 Time Series Forecasting
+###  Time Series Forecasting
 
 Daily sales forecasting using Facebook Prophet and time series analysis.
 
