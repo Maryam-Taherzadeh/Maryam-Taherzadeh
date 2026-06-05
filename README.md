@@ -16,7 +16,7 @@ I specialize in AI-driven drug discovery, cheminformatics, molecular property pr
 
 ## 🚀 Featured Projects
 
-### 🧬 Agentic AI Drug Discovery: MDM2–p53
+###  Agentic AI Drug Discovery: MDM2–p53
 
 End-to-end agentic AI drug discovery workflow for MDM2–p53 inhibitor prioritization.
 
@@ -27,7 +27,7 @@ https://huggingface.co/spaces/Maryam-Taherzadeh/agentic-ai-mdm2-p53
 
 ---
 
-### ☕ Caffeine PK Modeling with Public PK-DB Data
+###  Caffeine PK Modeling with Public PK-DB Data
 
 Machine learning workflow for caffeine pharmacokinetic concentration-time prediction using public PK-DB data.
 
@@ -40,13 +40,13 @@ https://github.com/Maryam-Taherzadeh/Caffeine-Pk-Modeling-PKPD
 
 ---
 
-### 🧪 Computational Drug Discovery: MDM2–p53 Inhibitors
+###  Computational Drug Discovery: MDM2–p53 Inhibitors
 
 Bioactivity prediction workflow for MDM2–p53 inhibitors using ChEMBL IC50 data, RDKit descriptors, molecular fingerprints, Random Forest, XGBoost, SVR, and hyperparameter tuning for pIC50 prediction.
 
 ---
 
-### 💧 Solubility Prediction App using Graph Neural Networks
+###  Solubility Prediction App using Graph Neural Networks
 
 Streamlit app for predicting aqueous solubility of small molecules using Graph Neural Networks, RDKit, PyTorch Geometric, and the AqSolDB dataset.
 
@@ -55,13 +55,13 @@ https://predictsolubilitygnn.streamlit.app/
 
 ---
 
-### ⚗️ QSPR using Machine Learning
+###  QSPR using Machine Learning
 
 Feature selection and SVM/ANN-based QSPR modeling for molecular property prediction.
 
 ---
 
-### 📈 Time Series Forecasting
+###  Time Series Forecasting
 
 Daily sales forecasting using Facebook Prophet and time series analysis.
 
