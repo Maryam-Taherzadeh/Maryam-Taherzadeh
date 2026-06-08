@@ -46,6 +46,7 @@ Bioactivity prediction workflow for MDM2–p53 inhibitors using ChEMBL IC50 data
 
 **GitHub**
 https://github.com/Maryam-Taherzadeh/Computational-Drug-Discovery
+
 ---
 
 ###  Solubility Prediction App using Graph Neural Networks
