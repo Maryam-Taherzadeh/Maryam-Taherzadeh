@@ -44,7 +44,7 @@ https://github.com/Maryam-Taherzadeh/Caffeine-Pk-Modeling-PKPD
 
 Bioactivity prediction workflow for MDM2–p53 inhibitors using ChEMBL IC50 data, RDKit descriptors, molecular fingerprints, Random Forest, XGBoost, SVR, and hyperparameter tuning for pIC50 prediction.
 
-**GitHub**
+**GitHub:**
 https://github.com/Maryam-Taherzadeh/Computational-Drug-Discovery
 
 ---
